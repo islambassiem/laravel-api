@@ -1,0 +1,9 @@
+GET http://127.0.0.1:8000/api/categories
+
+###
+
+GET http://127.0.0.1:8000/api/list/categories
+
+###
+
+GET http://127.0.0.1:8000/api/categories/100
